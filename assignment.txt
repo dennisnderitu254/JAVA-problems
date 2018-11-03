@@ -1,0 +1,12 @@
+Using Overloaded methods
+
+Get Area of Circle r
+
+Rectangle  l * w
+
+
+
+Triangle 1/2 b * h 
+
+
+
